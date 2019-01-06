@@ -1,0 +1,20 @@
+{
+  "description": "Old school module player<p>Xmp plays many mainstream and obscure module formats including Protracker (MOD), Scream Tracker 3 (S3M), Fast Tracker II (XM), and Impulse Tracker (IT).",
+  "author": "Andreas Smas",
+  "title": "XMP Player",
+  "synopsis": "Old school module player",
+  "version": "1.0.1",
+  "file": "xmp.bc",
+  "showtimeVersion": "5.0.369",
+  "type": "bitcode",
+  "id": "xmpplayer",
+  "icon": "xmp.png",
+  "category": "audioengine",
+  "control": {
+    "fileformats": [{
+      "offset": 1080,
+      "data": "TS5LLg==",
+      "mask": "/////w=="
+    }]
+  }
+}
